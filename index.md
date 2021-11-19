@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Sorrawee Amphaiwan
+![alt text](https://www.img.in.th/images/c2f4c884fc8881703a15459cb6b9583d.jpg)
 
-You can use the [editor on GitHub](https://github.com/Bubblue/digital.cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**introduction** ;
+There were so many I eager to know. I'm dedicate my wholelife for learning. I'm currently studying at Data Science and Innovation, Thammasat University. Other than Python and Data Science Skills, lately i've been interested in Blockchain, CryptoCurrency, Investment, and Creating a Business-Startup. I also sell NFT on opensea - [Link](https://opensea.io/collection/1043mindjanitor)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## education
 
-### Markdown
+- Assumption Convent School - science + math 
+- Wausau West High School - AFS' exchange student
+- Thammasat University - DSI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### awards/reference
 
+- participated in an AFS INternational Exchange Program and attend WAUSAU WEST HIGH SCHOOL in WAUSAU, WI, USA.
+- recieve a Highest science O-NET score in ASC
+- participated as a school representative in 9th ASEAN Quiz, National Level
+- participated as a school representative in mainstay of private school network
+- recieve a certificate for CPR training
+- participated in the practical aviation
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- IELTS 6.0
+- TU-GET 580
+- SAT 1150 with SAT MATH 700
+- GPAX 3.64
 ```
+- few more certificate from Thai MOOC for python and data science
+- siver medal from Academic War in MATH
+- Bronze medal from Academic War in English
+- _and so on._
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## personality 
+**ENFP** - the campaigner personality - with only 5% to 7% percent of people ENFP were known for their idealism and enthusiasm, these personalities excel at dealing with unexpected challenges and brightening the lives of those around them.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bubblue/digital.cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 'top 3' soft skills
+1. creativity
+2. adaptability and flexibility
+3. communication skills
+## contact
+```markdown
+- tel       : +66 61 710 3322
+- email     : oorrrnnn@gmail.com
+- instagram : notunderbutorn
+- address   : 144/8 chan road 51 yak 12 wat-praya-krai bang-kor-leam bangkok, Thailand 10120
+```
