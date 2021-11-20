@@ -35,6 +35,7 @@ There were so many I eager to know. I'm dedicate my wholelife for learning. I'm 
 1. creativity
 2. adaptability and flexibility
 3. communication skills
+
 ## contact
 ```markdown
 - tel       : +66 61 710 3322
