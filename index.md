@@ -11,18 +11,20 @@ There were so many I eager to know. I'm dedicate my wholelife for learning. I'm 
 - Thammasat University - DSI
 
 ### awards/reference
-```markdown
-- IELTS 6.0
-- TU-GET 580
-- SAT 1150 with SAT MATH 700
-- GPAX 3.64
-```
 - participated in an AFS INternational Exchange Program and attend WAUSAU WEST HIGH SCHOOL in WAUSAU, WI, USA.
 - recieve a Highest science O-NET score in ASC
 - participated as a school representative in 9th ASEAN Quiz, National Level
 - participated as a school representative in mainstay of private school network
 - recieve a certificate for CPR training
 - participated in the practical aviation
+
+```markdown
+- IELTS 6.0
+- TU-GET 580
+- SAT 1150 with SAT MATH 700
+- GPAX 3.64
+```
+
 - few more certificate from Thai MOOC for python and data science
 - siver medal from Academic War in MATH
 - Bronze medal from Academic War in English
