@@ -18,12 +18,14 @@ There were so many I eager to know. I'm dedicate my wholelife for learning. I'm 
 - participated as a school representative in mainstay of private school network
 - recieve a certificate for CPR training
 - participated in the practical aviation
+
 ```markdown
 - IELTS 6.0
 - TU-GET 580
 - SAT 1150 with SAT MATH 700
 - GPAX 3.64
 ```
+
 - few more certificate from Thai MOOC for python and data science
 - siver medal from Academic War in MATH
 - Bronze medal from Academic War in English
